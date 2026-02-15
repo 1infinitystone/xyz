@@ -4,14 +4,5 @@ languageCode = 'en-us'
 
 title = 'My New Hugo Site'
 
-theme = "simple-dark"
+theme = "dark"
 
-defaultContentLanguage = "en"
-
-[params]
-  author = "Nakata wesley"
-  description = "Your site description"
-  keywords = "blog, personal"
-
-# Optional: Configure how many posts show on homepage
-paginate = 10
